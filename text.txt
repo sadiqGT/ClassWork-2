@@ -1,0 +1,2 @@
+Let accountButton = document.getElementById("account-btn")
+
