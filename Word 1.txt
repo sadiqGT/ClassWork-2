@@ -1,1 +1,10 @@
 Global warming refers to the long-term increase in Earth’s average temperature due to human activities, primarily the burning of fossil fuels. This causes greenhouse gases like carbon dioxide to accumulate in the atmosphere. The consequences include rising sea levels, extreme weather patterns, biodiversity loss, and disrupted ecosystems worldwide
+
+Global warming refers to the long-term increase in Earth’s average temperature due to human activities,
+ primarily the burning of fossil fuels. This causes greenhouse gases like carbon dioxide to accumulate in the atmosphere.
+ The consequences include rising sea levels, extreme weather patterns, biodiversity loss, and disrupted ecosystems worldwid
+e. As temperatures rise, glaciers and polar ice caps melt, leading to flooding in coastal areas. Droughts, wildfires, and heatwaves
+ are becoming more frequent and intense, severely impacting agriculture and water resources. Human health is also at risk, with
+ increased air pollution and the spread of diseases. Immediate global action is required to reduce emissions, promote renewable 
+energy, and protect natural habitats. Failure to address global warming will result in irreversible damage, affecting future generations and
+ the delicate balance of life on Earth
